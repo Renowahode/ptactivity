@@ -1,34 +1,34 @@
 {
-  "companyName": "Oakenshield",
+  "companyName": "Hello Kitty",
   "employees": [
     {
+      "id": 2,
+      "name": "Kuromi",
+      "position": "Developer",
+      "location": "HCDC"
+    },
+    {
       "id": 3,
-      "name": "Gimli",
-      "position": "Data Analyst",
+      "name": "Melody",
+      "position": "Software Developer",
       "location": "HCDC"
     },
     {
       "id": 4,
-      "name": "Wence",
-      "position": "Software Developer",
+      "name": "Jean",
+      "position": "Data Analyst",
       "location": "HCDC"
     },
     {
       "id": 5,
-      "name": "Baggins",
-      "position": "Software Developer",
+      "name": "Ode",
+      "position": "Technician",
       "location": "HCDC"
     },
     {
       "id": 1,
-      "name": "Dante",
-      "position": "Data Analyst",
-      "location": "HCDC"
-    },
-    {
-      "id": 2,
-      "name": "Devz",
-      "position": "Data Analyst",
+      "name": "Blenchie",
+      "position": "Software Developer",
       "location": "HCDC"
     }
   ]
