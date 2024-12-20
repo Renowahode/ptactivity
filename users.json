@@ -1,0 +1,35 @@
+{
+  "companyName": "Oakenshield",
+  "employees": [
+    {
+      "id": 3,
+      "name": "Gimli",
+      "position": "Data Analyst",
+      "location": "HCDC"
+    },
+    {
+      "id": 4,
+      "name": "Wence",
+      "position": "Software Developer",
+      "location": "HCDC"
+    },
+    {
+      "id": 5,
+      "name": "Baggins",
+      "position": "Software Developer",
+      "location": "HCDC"
+    },
+    {
+      "id": 1,
+      "name": "Dante",
+      "position": "Data Analyst",
+      "location": "HCDC"
+    },
+    {
+      "id": 2,
+      "name": "Devz",
+      "position": "Data Analyst",
+      "location": "HCDC"
+    }
+  ]
+}
